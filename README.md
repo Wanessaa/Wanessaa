@@ -9,8 +9,7 @@
 <a href="https://instagram.com/wanessantana_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:wanessasantana1972@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-3c241b?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wanessasantana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-6B4226?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- <a href="https://discord.gg/wanessasantana" target="_blank"><img src="https://img.shields.io/badge/Discord-874b0f?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- </div>
+</div>
  
 
 
